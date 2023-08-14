@@ -98,4 +98,10 @@ identifier = "interests"
 name = "Interests"
 url = "/Interests/"
 weight = 4
-theme ='PaperMod' 
+ 
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
