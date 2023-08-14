@@ -30,7 +30,7 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: pop os
+    runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.117.0
     steps:
