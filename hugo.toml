@@ -1,0 +1,101 @@
+languageCode = "en-us"
+baseURL = "https://jochakma.github.io"
+title = "jochakma.github.io"
+paginate = 6
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Jo Chakma"
+description = "This is the website of Turjo Chakma."
+keywords = [ "Blog", "Portfolio" ]
+author = "Jo Chakma"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.label]
+  text = "Jo.Chk"
+  icon = "/home/turjochakma/jochakma.github.io/7TODiCrl_400x400.jpg"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = true
+  title = "Hi! 👋"
+  subtitle = "I am Turjo Chakma and this is my webpage. There is a lot here. Thanks for stopping by"
+  imageUrl = "images/7TODiCrl_400x400.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Me"
+
+
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = false
+
+  [params.editPost]
+  URL = ""
+  Text = ""
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 5
+
+[[menu.main]]
+identifier = "blog"
+name = "Blogs"
+url = "/blogs/"
+weight = 1
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+identifier = "mooc"
+name = "MOOC"
+url = "/MOOC/"
+weight = 3
+
+[[menu.main]]
+identifier = "interests"
+name = "Interests"
+url = "/Interests/"
+weight = 4
+theme ='PaperMod' 
