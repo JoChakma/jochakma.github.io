@@ -1,2 +1,10 @@
-#### *This website is still in the early stages of development.*
-*Some features may not be available yet, but I will be adding more content and features in the coming weeks.*
+
+
+
+X is my preferred social media platform, though I may have created accounts on other platforms, I normally do not use them. So, if you want to reach out to me just shoot me a DM on X or email me.
+
+
+[X](https://twitter.com/ChakmaJo)
+
+
+E mail : turjochakma1@gmail.com or turjochakmaacce36@gmail.com
