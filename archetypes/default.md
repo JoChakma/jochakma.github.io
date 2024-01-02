@@ -1,3 +1,3 @@
 ---
-author: Jo Chakma
+date:
 ---

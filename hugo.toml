@@ -42,7 +42,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Hi! 👋"
-  subtitle = "I am Turjo Chakma and this is my webpage. Thanks for stopping by. This website is supposed to be my “home base” on the internet. I’ll post some thoughts about things I’m interested in, whether it’s about Linux, linguistic, or books I’m currently reading."
+  subtitle = ""
   imageUrl = "images/7TODiCrl_400x400.jpg"
   imageWidth = 120
   imageHeight = 120
